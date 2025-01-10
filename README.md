@@ -24,8 +24,8 @@ $$
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/stephanievdl/ratio_code_test
-   cd ratio_code_test
+   git clone https://github.com/stephanievdl/guideline-concordance-ratio
+   cd guideline-concordance-ratio
    ```
 
 
