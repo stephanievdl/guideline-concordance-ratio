@@ -50,8 +50,8 @@ calculate concordance scores for selected indicators using
 
 
 ## Citation
-If you use this code in your research or projects, please kindly cite the [following paper](https://):
-Stephanie CC van der Lubbe, Lay Hoon Goh, Evangelos Kontopantelis, Wilson Wai San Tam, Jose M Valderas,
+If you use this code in your research or projects, please kindly cite the [following paper]([https://](https://qualitysafety.bmj.com/content/early/2025/03/22/bmjqs-2025-018494)):
+Stephanie CC van der Lubbe, Lay Hoon Goh, Evangelos Kontopantelis, Wilson WS Tam, Jose M Valderas,
 Measuring Guideline Concordance via Electronic Health Records: A New Model for Estimating Concordance Scores, 
-*to be added*. DOI: 
+*BMJ Quality & Safety* **2025**. DOI: 10.1136/bmjqs-2025-018494
 
